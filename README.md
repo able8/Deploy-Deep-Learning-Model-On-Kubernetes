@@ -1,9 +1,10 @@
 # 如何使用 Kubernetes 轻松部署深度学习模型
 
 英文原文：[Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker](https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76)
+
 作者 Gus Cavanaugh，[机器之心](https://www.jiqizhixin.com/articles/101403)翻译，2018/10/14
 
-==========================
+=================================
 
 ![](https://image.jiqizhixin.com/uploads/editor/dfabee89-a782-4dbf-8552-9efffa2d078d/1539491240778.png)
 
